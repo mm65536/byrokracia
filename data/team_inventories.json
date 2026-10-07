@@ -1,0 +1,130 @@
+{
+  "team-2": {
+    "items": [
+      {
+        "id": "navsteva_instalatera",
+        "name": "Návšteva inštalatéra",
+        "icon": "🔧",
+        "description": "Dohodnutý zásah a oprava vodovodného potrubia od inštalatéra Jakuba H.",
+        "unlockedAt": "2026-10-07T11:36:13.363Z",
+        "sourceAgent": "Jakub H, inštalatér"
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "905 777 111",
+        "phoneClean": "905777111",
+        "name": "Eliška Novotná",
+        "type": "text",
+        "unlockedAt": "2026-10-07T11:32:00.498Z",
+        "sourceAgent": "Jaromír Holý"
+      }
+    ]
+  },
+  "team-3": {
+    "items": [
+      {
+        "id": "objednavka_hub",
+        "name": "Objednávka húb",
+        "icon": "🍄",
+        "description": "Potvrdená dodávka lesných húb z Rimavskej Soboty od Gregora Hlučného.",
+        "unlockedAt": "2026-10-07T12:38:12.464Z",
+        "sourceAgent": "Gregor Hlučný"
+      },
+      {
+        "id": "navsteva_instalatera",
+        "name": "Návšteva inštalatéra",
+        "icon": "🔧",
+        "description": "Dohodnutý zásah a oprava vodovodného potrubia od inštalatéra Jakuba H.",
+        "unlockedAt": "2026-10-07T12:54:19.154Z",
+        "sourceAgent": "Jakub H, inštalatér"
+      },
+      {
+        "id": "10_tipov_biznis",
+        "name": "10 tipov a trikov na založenie biznisu",
+        "icon": "💡",
+        "description": "Praktický manuál ako rozbehnúť úspešný biznis od poradcu Lukáša Briezku.",
+        "unlockedAt": "2026-10-07T12:57:39.531Z",
+        "sourceAgent": "Lukáš Briezka"
+      },
+      {
+        "id": "termin_psycholog",
+        "name": "Termín u psychológa",
+        "icon": "🧠",
+        "description": "Prednostná rezervácia termínu u psychológa Mateja Káblika na odbúranie stresu.",
+        "unlockedAt": "2026-10-07T12:59:45.952Z",
+        "sourceAgent": "Matej Káblik"
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "905 777 111",
+        "phoneClean": "905777111",
+        "name": "Eliška Novotná",
+        "type": "text",
+        "unlockedAt": "2026-10-07T12:45:46.508Z",
+        "sourceAgent": "Jaromír Holý"
+      },
+      {
+        "phone": "902 965 621",
+        "phoneClean": "902965621",
+        "name": "Pani Koľajová",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:47:32.299Z",
+        "sourceAgent": "Eliška Novotná"
+      },
+      {
+        "phone": "917 505 871",
+        "phoneClean": "917505871",
+        "name": "Jakub Vrchoš",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:50:23.968Z",
+        "sourceAgent": "Amélia Plechová"
+      },
+      {
+        "phone": "911 124 579",
+        "phoneClean": "911124579",
+        "name": "Jakub H, inštalatér",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:55:18.242Z"
+      },
+      {
+        "phone": "902 723 821",
+        "phoneClean": "902723821",
+        "name": "Dušan Bublavý",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:55:51.106Z"
+      },
+      {
+        "phone": "948 845 821",
+        "phoneClean": "948845821",
+        "name": "Lukáš Briezka",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:57:07.387Z"
+      },
+      {
+        "phone": "944546298",
+        "phoneClean": "944546298",
+        "name": "Matej Káblik",
+        "type": "voice",
+        "unlockedAt": "2026-10-07T12:58:50.208Z",
+        "sourceAgent": "Dušan Bublavý"
+      },
+      {
+        "phone": "800 300 512",
+        "phoneClean": "800300512",
+        "name": "Mušt Rum s.r.o. firemný chatbot",
+        "type": "text",
+        "unlockedAt": "2026-10-07T13:01:14.413Z"
+      }
+    ]
+  },
+  "team-1": {
+    "items": [],
+    "contacts": []
+  },
+  "team-6": {
+    "items": [],
+    "contacts": []
+  }
+}

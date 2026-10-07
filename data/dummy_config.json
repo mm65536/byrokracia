@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pig",
+    "name": "Krochajúce Prasa",
+    "title": "Krochajúce prasa",
+    "description": "Zábavné chrochtajúce a kvičiace prasa (m4a zvuková slučka)",
+    "customText": "🐷 Krochajúce prasa na linke"
+  },
+  {
+    "id": "leaders",
+    "name": "Táboroví Vedúci",
+    "title": "Mená vedúcich",
+    "description": "Hlas v hovore dynamicky skanduje mená vedúcich a odpovedá deťom",
+    "customText": "Janko, Lukáš, Julka, Branko, Soňa, Štepi, Aliska, Martin"
+  }
+]

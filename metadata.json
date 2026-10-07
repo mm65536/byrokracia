@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix PoC Dvaja Agenti",
+  "description": "Táborová hra pre 6 družiniek: vytočte číslo tety, rozprávajte sa, plňte questy alebo odhaľte tajné linky!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
